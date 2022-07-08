@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\bin\Debug\EmploieDataBase.dacpac
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\bin\Debug\EmploieDataBase.dll
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\bin\Debug\EmploieDataBase.pdb
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\EmploieDataBase.sqlproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\Model.xml
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\refactor.xml
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\postdeploy.sql
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\predeploy.sql
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\EmploieDataBase.dll
+C:\Users\ferad\source\repos\WebEmoloye.MVC\EmploieDataBase\obj\Debug\EmploieDataBase.pdb
